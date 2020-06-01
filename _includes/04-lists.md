@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+* Javascript
+* React.js
+* Node.js
+* Mr. Robot
+* The Martain
